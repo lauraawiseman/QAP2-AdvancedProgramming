@@ -103,7 +103,6 @@ public void setEndXY(int x, int y)
     this.end.setXY(x, y);  
 }
 
-
 public double getLength()
 {
     return begin.distance(end);

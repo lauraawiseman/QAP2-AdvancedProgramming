@@ -9,7 +9,7 @@ public class MyRectangle {
         this.bottomRight = bottomRight;
     }
 
-   // Getters and setters
+   // Methods
     public void setTopLeft(MyPoint topLeft)
     {
         this.topLeft = topLeft;
